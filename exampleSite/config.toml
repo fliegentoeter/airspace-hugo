@@ -82,7 +82,7 @@ description = "Gerdis Ferienwohnung Test"
 email = "gerdi@email.com"
 google_analitycs_id = ""
 location = "Ränkam,Bayern"
-logo = "images/logo.png"
+logo = "/images/living-on-the-edge-844873_640.jpg"
 mobile = "0123456789"
 multi_author = false
 [params.gmap]
