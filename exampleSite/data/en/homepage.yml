@@ -17,7 +17,7 @@ about:
   image: "/images/landschaft-4571916_640.jpg"
 portfolio:
   enable: true
-  bg_image: images/featue-bg.jpg
+  bg_image: "/images/fall-1072821_640.jpg"
   title: Billig Billig Billig
   content: Billiger wirds nimmer, miete Jetzt!
   button:
