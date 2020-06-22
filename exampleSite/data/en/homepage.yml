@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: "/images/landschaft-4571916_640.jpg"
   bg_overlay: true
   title: Gerhards Ferienwohnungen
   content: Schönste Wohnungen in Ränkam Ost
@@ -14,7 +14,7 @@ about:
   title: Die Wohnung
   description: MIETMICH
   content: Hallo, ich bin Gerhard, miete deine Wohnung bei mir!
-  image: "/images/living-room-2155376_640.jpg"
+  image: "/images/landschaft-4571916_640.jpg"
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
