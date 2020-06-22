@@ -78,12 +78,12 @@ weight = 6
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-description = "This is meta description"
-email = "demo@email.com"
+description = "Gerdis Ferienwohnung Test"
+email = "gerdi@email.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Ränkam,Bayern"
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = "0123456789"
 multi_author = false
 [params.gmap]
 enable = true
@@ -120,18 +120,6 @@ enable = true
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
-[[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
 [[params.social]]
 icon = "ion-social-twitter-outline"
 link = "#"
