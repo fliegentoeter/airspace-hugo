@@ -32,7 +32,7 @@ service:
     content: ''
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: "/images/road-220058_640.jpg"
   title: Lerne spannende Details über das schönste Dorf der Welt
   content: Ränkam
   button:
