@@ -14,7 +14,7 @@ about:
   title: Die Wohnung
   description: MIETMICH
   content: Hallo, ich bin Gerhard, miete deine Wohnung bei mir!
-  image: images/wrapper-img.png
+  image: "/images/living-room-2155376_640.jpg"
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
