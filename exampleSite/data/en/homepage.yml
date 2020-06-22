@@ -21,7 +21,7 @@ portfolio:
   title: Billig Billig Billig
   content: Billiger wirds nimmer, miete Jetzt!
   button:
-    enable: true
+    enable: false
     label: View Works
     link: project
 service:
