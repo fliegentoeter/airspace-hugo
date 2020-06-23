@@ -56,16 +56,12 @@ URL = "service"
 name = "Reiseziele"
 weight = 3
 [[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
-[[menu.main]]
 URL = "faq"
 name = "FAQ"
 parent = "Pages"
 [[menu.main]]
 URL = "pricing"
-name = "Pricing"
+name = "Preise"
 parent = "Pages"
 [[menu.main]]
 URL = "contact"
