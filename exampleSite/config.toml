@@ -57,7 +57,7 @@ name = "Freizeitangebote"
 weight = 3
 [[menu.main]]
 URL = "faq"
-name = "FAQ"
+name = "Impressum"
 parent = "Pages"
 [[menu.main]]
 URL = "pricing"
