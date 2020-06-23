@@ -41,7 +41,7 @@ weight = 3
 URL = "pricing"
 name = "Preise"
 parent = "Pages"
-weight = "4"
+weight = ""
 [[menu.main]]
 URL = "contact"
 name = "Kontakt"
