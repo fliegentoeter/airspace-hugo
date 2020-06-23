@@ -45,8 +45,8 @@ funfacts:
     name: Zufriedene Gäste
     count: "25"
   - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+    name: Ausflugsziele
+    count: "13"
   - icon: ion-ios-compose-outline
     name: Projects Completed
     count: "125"
