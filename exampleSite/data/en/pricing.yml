@@ -5,7 +5,7 @@ pricing:
   - name: Basisunterkunft
     price: 20€
     content: Pro Tag
-    link: "#"
+    link: ''
     services:
     - Doppelbett
     - Frühstück
