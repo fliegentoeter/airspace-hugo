@@ -51,8 +51,8 @@ funfacts:
     name: km nach Tschechien
     count: "5"
   - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+    name: Super Verkehrsanbindung
+    count: ''
   testimonial_slider:
   - name: Gerdi
     image: images/clients/avater-1.jpg
