@@ -22,6 +22,10 @@ weight = ""
 [menu]
 footer = []
 [[menu.main]]
+URL = "faq"
+name = "Impressum"
+weight = "7"
+[[menu.main]]
 URL = "pricing"
 name = "Preise"
 weight = "4"
@@ -45,11 +49,6 @@ weight = 3
 URL = "contact"
 name = "Kontakt"
 weight = 6
-[[menu.main]]
-URL = "faq"
-name = "Impressum"
-parent = "Pages"
-weight = "7"
 [params]
 author = "Themefisher"
 contact_form_action = "#"
