@@ -16,7 +16,7 @@
 - id: location
   translation: Standort
 - id: buy_now
-  translation: ''
+  translation: "."
 - id: address_title
   translation: Anfahrt
 - id: submit
