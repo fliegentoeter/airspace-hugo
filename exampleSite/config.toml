@@ -34,11 +34,6 @@ URL = "service"
 name = "Freizeitangebote"
 weight = 3
 [[menu.main]]
-URL = "faq"
-name = "Impressum"
-parent = "Pages"
-weight = "7"
-[[menu.main]]
 URL = "pricing"
 name = "Preise"
 parent = "Pages"
@@ -47,6 +42,11 @@ weight = "4"
 URL = "contact"
 name = "Kontakt"
 weight = 6
+[[menu.main]]
+URL = "faq"
+name = "Impressum"
+parent = "Pages"
+weight = "7"
 [params]
 author = "Themefisher"
 contact_form_action = "#"
