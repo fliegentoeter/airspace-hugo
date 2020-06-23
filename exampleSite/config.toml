@@ -56,10 +56,6 @@ URL = "service"
 name = "Reiseziele"
 weight = 3
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[menu.main]]
 hasChildren = true
 name = "Pages"
 weight = 5
