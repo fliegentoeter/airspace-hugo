@@ -65,7 +65,7 @@ name = "Preise"
 parent = "Pages"
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Kontakt"
 weight = 6
 [params]
 author = "Themefisher"
