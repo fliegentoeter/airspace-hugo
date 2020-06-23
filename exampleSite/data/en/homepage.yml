@@ -62,9 +62,7 @@ funfacts:
     image: images/clients/avater-1.jpg
     designation: Zweiter Gast
     content: Voll cool
-  - name: Rose Rio
+  - name: HiGerdi
     image: images/clients/avater-3.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: Dritter Gast
+    content: Ränkam ist schön
