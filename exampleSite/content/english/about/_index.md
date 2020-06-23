@@ -1,11 +1,6 @@
 ---
-title: About Our Company
-description: this is meta description
+title: Wissenswertes über unsere Ferienwohnung
+description: ''
 bg_image: images/featue-bg.jpg
-menu:
-  main:
-    name: Über uns
-    URL: about
-    weight: 1
 
 ---
