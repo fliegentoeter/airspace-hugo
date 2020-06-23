@@ -1,4 +1,6 @@
 ---
+- id: your message
+  translation: Deine Nachricht
 - id: subject
   translation: Betreff
 - id: last_update
