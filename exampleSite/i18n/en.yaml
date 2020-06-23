@@ -12,7 +12,7 @@
 - id: address_title
   translation: Anfahrt
 - id: submit
-  translation: Send Message
+  translation: Abschicken
 - id: all
   translation: All
 - id: posted_by
