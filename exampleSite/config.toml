@@ -22,6 +22,10 @@ weight = ""
 [menu]
 footer = []
 [[menu.main]]
+URL = "pricing"
+name = "Preise"
+weight = "4"
+[[menu.main]]
 URL = "/contact"
 name = "Test"
 weight = "9"
@@ -37,11 +41,6 @@ weight = 2
 URL = "service"
 name = "Freizeitangebote"
 weight = 3
-[[menu.main]]
-URL = "pricing"
-name = "Preise"
-parent = "Pages"
-weight = "4"
 [[menu.main]]
 URL = "contact"
 name = "Kontakt"
