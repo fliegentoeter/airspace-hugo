@@ -33,11 +33,11 @@ service:
 cta:
   enable: true
   bg_image: "/images/road-220058_640.jpg"
-  title: Lerne spannende Details über das schönste Dorf der Welt
-  content: Ränkam
+  title: Du möchtest buchen?
+  content: Kontaktiere uns einfach!
   button:
     enable: true
-    label: Tell Us Your Story
+    label: Kontakt
     link: contact
 funfacts:
   enable: true
