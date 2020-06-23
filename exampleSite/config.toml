@@ -9,8 +9,8 @@ title = "Gerdis Ferienwohnung"
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 home = "Home"
-languageCode = "en-us"
-languageName = "En"
+languageCode = "de-de"
+languageName = "De"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
