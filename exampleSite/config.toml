@@ -13,12 +13,12 @@ languageCode = "de-de"
 languageName = "De"
 weight = 1
 [Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+contentDir = ""
+copyright = ""
+home = ""
+languageCode = ""
+languageName = ""
+weight = ""
 [menu]
 footer = []
 [[menu.main]]
