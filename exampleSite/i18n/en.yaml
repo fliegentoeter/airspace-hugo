@@ -2,7 +2,7 @@
 - id: last_update
   translation: Letzte Aktualisierung
 - id: phone
-  translation: Phone
+  translation: Telefonnummer
 - id: email
   translation: Email
 - id: location
