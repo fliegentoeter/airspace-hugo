@@ -1,4 +1,6 @@
 ---
+- id: your name
+  translation: Dein Name
 - id: email adress
   translation: Deine Emailadresse
 - id: your message
