@@ -12,7 +12,7 @@ pricing:
   - name: Premiumunterkunft
     price: 99€
     content: pro Nacht
-    link: "#"
+    link: ''
     services:
     - Persönlicher Butler
 cta:
