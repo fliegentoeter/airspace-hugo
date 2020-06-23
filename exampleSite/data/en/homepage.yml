@@ -26,10 +26,7 @@ portfolio:
     link: project
 service:
   enable: true
-  service_item:
-  - icon: ''
-    name: ''
-    content: ''
+  service_item: []
 cta:
   enable: true
   bg_image: "/images/road-220058_640.jpg"
