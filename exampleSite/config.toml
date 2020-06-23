@@ -30,10 +30,6 @@ URL = "pricing"
 name = "Preise"
 weight = "4"
 [[menu.main]]
-URL = "/contact"
-name = "Test"
-weight = "9"
-[[menu.main]]
 URL = "about"
 name = "Über uns"
 weight = 1
