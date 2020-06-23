@@ -22,7 +22,7 @@
 - id: latest_posts
   translation: Letzte Beiträge
 - id: page_prev
-  translation: Prev
+  translation: Vorschau
 - id: page_next
   translation: Next
 - id: tags
