@@ -63,10 +63,10 @@ funfacts:
     image: ''
     designation: Stammgast
     content: Super Lage, tolles Ambiente
-  - name: Gerhard
-    image: images/clients/avater-1.jpg
-    designation: Zweiter Gast
-    content: Voll cool
+  - name: Michaela
+    image: ''
+    designation: Zufriedener Gast
+    content: Komme gerne nächstes Jahr wieder :)
   - name: HiGerdi
     image: images/clients/avater-3.jpg
     designation: Dritter Gast
