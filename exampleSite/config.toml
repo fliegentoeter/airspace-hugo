@@ -19,6 +19,28 @@ home = ""
 languageCode = ""
 languageName = ""
 weight = ""
+[menu]
+footer = []
+[[menu.main]]
+URL = "faq"
+name = "Impressum"
+weight = "7"
+[[menu.main]]
+URL = "contact"
+name = "Kontakt"
+weight = 6
+[[menu.main]]
+URL = "pricing"
+name = "Preise"
+weight = "4"
+[[menu.main]]
+URL = "project"
+name = "Bilder"
+weight = 2
+[[menu.main]]
+URL = "service"
+name = "Freizeitangebote"
+weight = 3
 [params]
 author = "Themefisher"
 contact_form_action = "#"
