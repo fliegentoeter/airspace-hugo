@@ -18,3 +18,4 @@ pricing:
 cta:
   enable: true
   title: Unsere Preise
+  bg_image: "/images/hintergrund.jpg"
