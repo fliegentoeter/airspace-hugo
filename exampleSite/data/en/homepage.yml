@@ -29,7 +29,7 @@ service:
   service_item: []
 cta:
   enable: true
-  bg_image: "/images/road-220058_640.jpg"
+  bg_image: "/images/hintergrund.jpg"
   title: Du möchtest buchen?
   content: Kontaktiere uns einfach!
   button:
