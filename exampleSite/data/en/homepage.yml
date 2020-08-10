@@ -47,8 +47,8 @@ funfacts:
   description: Meinungen sind wichtig
   funfact_item:
   - icon: ion-ios-chatboxes-outline
-    name: Zufriedene Gäste
-    count: "25"
+    name: Jahre Erfahrung
+    count: "15"
   - icon: ion-ios-glasses-outline
     name: Ausflugsziele
     count: "13"
