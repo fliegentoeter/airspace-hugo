@@ -2,13 +2,12 @@
 pricing:
   enable: true
   pricing_table:
-  - name: Basisunterkunft
-    price: 20€
+  - name: 2 Personen
+    price: 35€
     content: Pro Tag
     link: ''
     services:
-    - Doppelbett
-    - Frühstück
+    - Inklusive Endreinigung
   - name: Premiumunterkunft
     price: 99€
     content: pro Nacht
