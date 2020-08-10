@@ -60,7 +60,7 @@ funfacts:
     count: "356"
   testimonial_slider:
   - name: Klaus
-    image: ''
+    image: "/images/avatar-1577909_1280.png"
     designation: Stammgast
     content: Super Lage, tolles Ambiente
   - name: Michaela
