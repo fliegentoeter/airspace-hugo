@@ -48,11 +48,11 @@ weight = 6
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-description = "Gerdis Ferienwohnung Test"
+description = "Ferienhaus am Eichert"
 email = "gerdi@email.com"
 google_analitycs_id = ""
-location = "Ränkam,Bayern"
-logo = "/images/living-on-the-edge-844873_640.jpg"
+location = "Furth im Wald,Bayern"
+logo = "/images/house-3614759_1280.png"
 mobile = "0123456789"
 multi_author = false
 social = []
