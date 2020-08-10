@@ -15,9 +15,10 @@ banner:
     link: project
 about:
   enable: true
-  title: Wunderschöne ruhige Lage
+  title: Bis max. 4 Personen
   description: ''
-  content: Für Urlaubsgäste, Wochenendheimfahrer etc.
+  content: Mit Küche, Dusche, WC, Schlaf- und Fernsehabteil, Balkon, idyllischer Terassenlaube,
+    Fahrradgarade und Stellplatz
   image: "/images/haus5.jpg"
 portfolio:
   enable: true
