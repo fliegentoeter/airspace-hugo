@@ -1,6 +1,6 @@
 ---
-title: Unsere Preise
+title: Unsere preise
 description: ''
-bg_image: "/images/landschaft-4571916_640.jpg"
+bg_image: "/images/hintergrund.jpg"
 
 ---
