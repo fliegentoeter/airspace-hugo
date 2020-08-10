@@ -21,7 +21,7 @@ about:
     Fahrradgarade und Stellplatz
   image: "/images/haus5.jpg"
 portfolio:
-  enable: true
+  enable: false
   bg_image: "/images/fall-1072821_640.jpg"
   title: Billig Billig Billig
   content: Billiger wirds nimmer, miete Jetzt!
