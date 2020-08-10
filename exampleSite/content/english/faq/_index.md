@@ -17,8 +17,6 @@ dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus
 quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
 obcaecati maiores voluptates.
 
-![](/images/haus5.jpg)
-
 #### 1.Overview
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
