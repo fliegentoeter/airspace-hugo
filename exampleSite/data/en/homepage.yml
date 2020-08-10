@@ -43,7 +43,7 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Das sagten unsere Gäste
+  title: Das sagen unsere Gäste
   description: Meinungen sind wichtig
   funfact_item:
   - icon: ion-ios-chatboxes-outline
@@ -59,10 +59,10 @@ funfacts:
     name: Super Verkehrsanbindung
     count: ''
   testimonial_slider:
-  - name: Gerdi
-    image: images/clients/avater-1.jpg
-    designation: Erster Gast
-    content: Geiles Hütte!
+  - name: Klaus
+    image: ''
+    designation: Stammgast
+    content: Super Lage, tolles Ambiente
   - name: Gerhard
     image: images/clients/avater-1.jpg
     designation: Zweiter Gast
