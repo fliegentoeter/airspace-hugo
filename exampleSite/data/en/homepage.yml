@@ -50,8 +50,8 @@ funfacts:
     name: Jahre Erfahrung
     count: "15"
   - icon: ion-ios-glasses-outline
-    name: Ausflugsziele
-    count: "13"
+    name: Ausflugsziele in unmittelbarer Nähe
+    count: "10"
   - icon: ion-ios-compose-outline
     name: km nach Tschechien
     count: "5"
