@@ -1,7 +1,7 @@
 ---
-title: Außenansicht
-description: ''
-image: images/portfolio/work6.jpg
+title: Rio Furniture
+description: this is meta description
+image: "/images/haus5.jpg"
 bg_image: "/images/haus5.jpg"
 category: Video
 information:
