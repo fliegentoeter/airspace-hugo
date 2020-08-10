@@ -11,9 +11,9 @@ banner:
     link: project
 about:
   enable: true
-  title: Die Wohnung
-  description: MIETMICH
-  content: Hallo, ich bin Gerhard, miete deine Wohnung bei mir!
+  title: Wunderschöne ruhige Lage
+  description: ''
+  content: Für Urlaubsgäste, Wochenendheimfahrer etc.
   image: "/images/landschaft-4571916_640.jpg"
 portfolio:
   enable: true
