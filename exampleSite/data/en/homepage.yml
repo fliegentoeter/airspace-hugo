@@ -1,10 +1,14 @@
 ---
 banner:
   enable: true
-  bg_image: "/images/landschaft-4571916_640.jpg"
+  bg_image: "/images/hintergrund.jpg"
   bg_overlay: true
-  title: Gerhards Ferienwohnungen
-  content: Schönste Wohnungen in Ränkam Ost
+  title: Ferienhaus am Eichert
+  content: |2
+
+    Wunderschöne ruhige Lage
+
+    Für Urlaubsgäste, Wochenendheimfahrer etc.
   button:
     enable: true
     label: Bildergalerie
