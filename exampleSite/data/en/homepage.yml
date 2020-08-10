@@ -64,10 +64,10 @@ funfacts:
     designation: Stammgast
     content: Super Lage, tolles Ambiente
   - name: Michaela
-    image: ''
+    image: "/images/avatar-1577909_1280.png"
     designation: Zufriedener Gast
     content: Komme gerne nächstes Jahr wieder :)
   - name: Siegfried
-    image: ''
+    image: "/images/avatar-1577909_1280.png"
     designation: ''
     content: Alles TOP!
