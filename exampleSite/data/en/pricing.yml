@@ -8,12 +8,12 @@ pricing:
     link: ''
     services:
     - Inklusive Endreinigung
-  - name: Premiumunterkunft
-    price: 99€
-    content: pro Nacht
+  - name: pro zusätzliche Person
+    price: 5€
+    content: pro Tag extra
     link: ''
     services:
-    - Persönlicher Butler
+    - Bis zu 4 Personen insgesamt
 cta:
   enable: true
   title: Unsere Preise
