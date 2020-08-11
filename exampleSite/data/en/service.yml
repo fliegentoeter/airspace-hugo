@@ -2,33 +2,17 @@
 about:
   enable: true
   title: Freizeitangebote in der Umgebung
-  content: |-
-    * [Drachenstich](https://drachenstich.de/)
-    ***
-    * [Drachensee](https://furth.de/freizeit-und-tourismus/natur/drachensee/)
-    ***
-    * [Further Drache](https://furth.de/freizeit-und-tourismus/natur/drachenhoehle/)
-    ***
-    * [Steinbruchsee](https://furth.de/freizeit-und-tourismus/natur/drachensee/)
-    ***
-    * unzählige Wander- und Fahrradwege im schönen bayerischen und böhmischen Wald
-    z.B. [Gibacht](https://furth.de/freizeit-und-tourismus/natur/gibacht/)
-    ***
-    * [Flederwischmuseum](https://furth.de/freizeit-und-tourismus/natur/erlebniswelt-flederwisch/)
-    ***
-    * [Wildgarten](https://furth.de/freizeit-und-tourismus/natur/wildgarten/)
-    ***
-    * [Japanischer Garten](https://furth.de/freizeit-und-tourismus/natur/japanischer-garten/)
-    ***
-    * [Felsengänge](https://furth.de/freizeit-und-tourismus/natur/felsengaenge/)
-    ***
-    * Drachenfreibad
-    ***
-    * [Gastronomie](https://www.bayerischer-wald.org/bayerischer-wald-ganz-oben/urlaub-planen/gastronomie/do/search/page/1/area/Furth_-_im_-_Wald_-_-_-_Hohenbogen_-_Winkel,Waldm%C3%BCnchner_-_Urlaubsland/city/Furth_-_im_-_Wald)
-    ***
-    * [Aktuelle Veranstaltungen](https://furth.de/veranstaltungen/)
-    ***
-    * und vieles mehr
+  content: "* [Drachenstich](https://drachenstich.de/)\n***\n* [Drachensee](https://furth.de/freizeit-und-tourismus/natur/drachensee/)\n***\n*
+    [Further Drache](https://furth.de/freizeit-und-tourismus/natur/drachenhoehle/)\n***\n*
+    [Steinbruchsee](https://furth.de/freizeit-und-tourismus/natur/drachensee/)\n***\n*
+    Wander- und Fahrradwege im schönen bayerischen und böhmischen Wald  \nz.B. [Gibacht](https://furth.de/freizeit-und-tourismus/natur/gibacht/)\n***\n*
+    [Flederwischmuseum](https://furth.de/freizeit-und-tourismus/natur/erlebniswelt-flederwisch/)\n***\n*
+    [Wildgarten](https://furth.de/freizeit-und-tourismus/natur/wildgarten/)\n***\n*
+    [Japanischer Garten](https://furth.de/freizeit-und-tourismus/natur/japanischer-garten/)\n***\n*
+    [Felsengänge](https://furth.de/freizeit-und-tourismus/natur/felsengaenge/)\n***\n*
+    Drachenfreibad\n***\n* [Gastronomie](https://www.bayerischer-wald.org/bayerischer-wald-ganz-oben/urlaub-planen/gastronomie/do/search/page/1/area/Furth_-_im_-_Wald_-_-_-_Hohenbogen_-_Winkel,Waldm%C3%BCnchner_-_Urlaubsland/city/Furth_-_im_-_Wald)\n***\n*
+    [Aktuelle Veranstaltungen](https://furth.de/veranstaltungen/)\n***\n* und vieles
+    mehr"
   image: "/images/hiker-1149877_640.jpg"
 featured_service:
   enable: false
