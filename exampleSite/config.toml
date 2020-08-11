@@ -45,11 +45,11 @@ weight = 3
 author = "Themefisher"
 contact_form_action = "#"
 description = "Ferienhaus am Eichert"
-email = "gerdi@email.com"
+email = "gerhard.schuesser@web.de"
 google_analitycs_id = ""
 location = "Furth im Wald,Bayern"
 logo = "/images/house-logo-1.png"
-mobile = "0123456789"
+mobile = "+4999433114"
 multi_author = false
 social = []
 [params.gmap]
