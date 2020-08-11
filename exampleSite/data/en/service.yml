@@ -2,9 +2,9 @@
 about:
   enable: true
   title: Freizeitangebote in der Umgebung
-  content: "* Drachenstich: https://drachenstich.de/\n* Drachensee\n* unzählige Wander-
-    und Fahrradwege im schönen bayerischen und böhmischen Wald\n* Flederwischmuseum
-    \n* Wildgarten\n* Drachenfreibad\n* und vieles mehr"
+  content: "* Drachenstich: https://drachenstich.de/\n\n* Drachensee\n\n* unzählige
+    Wander- und Fahrradwege im schönen bayerischen und böhmischen Wald\n\n* Flederwischmuseum
+    \n\n* Wildgarten\n\n* Drachenfreibad\n\n* und vieles mehr"
   image: "/images/man-1598050_1280.png"
 featured_service:
   enable: false
